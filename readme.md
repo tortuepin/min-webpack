@@ -8,6 +8,7 @@ src/index.jsをいじろう
 
 ```
 npm install
+mkdir dist
 ```
 
 ## ビルド
