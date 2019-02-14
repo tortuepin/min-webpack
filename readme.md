@@ -2,7 +2,6 @@
 
 webpack+babel環境
 
-src/index.jsをいじろう
 
 ## インストール
 
@@ -11,8 +10,14 @@ npm install
 mkdir dist
 ```
 
+src/index.jsをいじろう
+
 ## ビルド
 
 ```
 npm run build
 ```
+
+dist/main.jsが生成されるぞ
+
+dist/index.htmlをひらいてみよう
